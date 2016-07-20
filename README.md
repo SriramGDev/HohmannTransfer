@@ -36,14 +36,14 @@ First off, I know that I should probably put this in another file, but I'm feeli
 
 # TODO
 1. Make everything more readable
-..* Add comments
-..* Change variable names
-..* Partition code into functions
+  * Add comments
+  * Change variable names
+  * Partition code into functions
 2. Add some statistics (multithreading?)
-..* Fuel burned
-..* Altitude above Earth
-..* Time
-..* Distance to Mars
+  * Fuel burned
+  * Altitude above Earth
+  * Time
+  * Distance to Mars
 
 # License
 There is none. Do whatever you want with this code (so long as it's legal I guess). I really don't care.
